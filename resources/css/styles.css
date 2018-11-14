@@ -1,0 +1,23 @@
+body {
+  background-color: Purple;
+  color: HoneyDew;
+  font-family:papyrus;
+}
+
+h1 {
+  text-align: center;
+  font-size: 400;
+}
+
+.fon{
+  text-align: center;
+  margin-top: -20px;
+  margin-bottom: 40px;
+}
+
+.Shibaboi {
+background-color: mediumseagreen;
+color: Black;
+
+margin: 20px auto;
+}
